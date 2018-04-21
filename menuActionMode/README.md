@@ -1,1 +1,1 @@
-![实验四]（https://raw.githubusercontent.com/chubenwuxia/pitcure/master/selsct.png）
+![实验四](https://raw.githubusercontent.com/chubenwuxia/pitcure/master/selsct.png)
